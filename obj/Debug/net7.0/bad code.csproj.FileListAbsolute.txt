@@ -1,0 +1,15 @@
+/Users/phroureo/repos/bad code/bin/Debug/net7.0/bad code
+/Users/phroureo/repos/bad code/bin/Debug/net7.0/bad code.deps.json
+/Users/phroureo/repos/bad code/bin/Debug/net7.0/bad code.runtimeconfig.json
+/Users/phroureo/repos/bad code/bin/Debug/net7.0/bad code.dll
+/Users/phroureo/repos/bad code/bin/Debug/net7.0/bad code.pdb
+/Users/phroureo/repos/bad code/obj/Debug/net7.0/bad code.csproj.AssemblyReference.cache
+/Users/phroureo/repos/bad code/obj/Debug/net7.0/bad code.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phroureo/repos/bad code/obj/Debug/net7.0/bad code.AssemblyInfoInputs.cache
+/Users/phroureo/repos/bad code/obj/Debug/net7.0/bad code.AssemblyInfo.cs
+/Users/phroureo/repos/bad code/obj/Debug/net7.0/bad code.csproj.CoreCompileInputs.cache
+/Users/phroureo/repos/bad code/obj/Debug/net7.0/bad code.dll
+/Users/phroureo/repos/bad code/obj/Debug/net7.0/refint/bad code.dll
+/Users/phroureo/repos/bad code/obj/Debug/net7.0/bad code.pdb
+/Users/phroureo/repos/bad code/obj/Debug/net7.0/bad code.genruntimeconfig.cache
+/Users/phroureo/repos/bad code/obj/Debug/net7.0/ref/bad code.dll
